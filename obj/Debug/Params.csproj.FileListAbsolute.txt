@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\Params\Params\bin\Debug\Params.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\Params\Params\bin\Debug\Params.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\Params\Params\bin\Debug\Params.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\Params\Params\obj\Debug\Params.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Params\Params\obj\Debug\Params.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Params\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Params\Params\obj\Debug\Params.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\Params\Params\obj\Debug\Params.pdb
